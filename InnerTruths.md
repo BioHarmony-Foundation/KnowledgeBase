@@ -10,4 +10,4 @@ We must start with shifting our value system to put the wholistic health of the 
 No matter your view of the divine, the earth and our natural world is undoubtedly connected to us on a level above our physical understanding.
 
 ## Art and Culture
-The beauty of our environment flows naturally into our artistic expression. Whenhumans embrace their bio-region, it will undoubtedly mold their culture. Life is more beautiful when we embrace and celebrate this connectedness.
+The beauty of our environment flows naturally into our artistic expression. When humans embrace their bio-region, it will undoubtedly mold their culture. Life is more beautiful when we embrace and celebrate this connectedness.

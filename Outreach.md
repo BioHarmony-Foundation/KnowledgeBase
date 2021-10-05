@@ -1,5 +1,5 @@
 # Outreach
-It may not enough for our existing communities to do their part. We must continue to educate and spread awareness of what it means to live in harmony with our environment.
+It may not be enough for our existing communities to do their part. We must continue to educate and spread awareness of what it means to live in harmony with our environment.
 
 ## Education
 
@@ -11,6 +11,7 @@ It may not enough for our existing communities to do their part. We must continu
 
 ## Preservation of Life
 
+## Preservation of Place 
+
 ## Social Ecology
 
-## Preservation of Place 
