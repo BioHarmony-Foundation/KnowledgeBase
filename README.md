@@ -3,14 +3,12 @@ A place to centrally document our combined knowledge towards a BioHarmonic way o
 
 Everything is connected, so organizing information can be hard. We attempt to organize our knowledge heirarchically, with large abstract pillars that are further refined and cross-referenced as you dig deeper. Soon, there will be a graphical interface to explore these topics.
 
-## [Inner Truths](InnerTruths.md)
+### [Inner Truths](InnerTruths.md)
 
-## [Building](Building.md)
+### [Building](Building.md)
 
-## [Communities](Communities.md)
+### [Communities](Communities.md)
 
-## [ContinuousOperations](ContinuousOperations.md)
+### [Continuous Operations](ContinuousOperations.md)
 
-## [Outreach](Outreach.md)
-
-
+### [Outreach](Outreach.md)

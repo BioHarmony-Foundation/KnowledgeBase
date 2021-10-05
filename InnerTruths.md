@@ -6,7 +6,7 @@ We must start with shifting our value system to put the wholistic health of the 
 
 ## Ecological Philosophy
 
-### Ecological Theology
+## Ecological Theology
 No matter your view of the divine, the earth and our natural world is undoubtedly connected to us on a level above our physical understanding.
 
 ## Art and Culture
